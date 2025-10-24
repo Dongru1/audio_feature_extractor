@@ -1,6 +1,6 @@
 [project]
 name = "audio-feature-extractor"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
     { name = "drhan", email = "handongrui1996@gmail.com"}
 ]
